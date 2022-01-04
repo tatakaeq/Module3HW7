@@ -1,0 +1,10 @@
+﻿{
+  "Logger": {
+    "LogDirectory": "../Logs",
+    "FileName": "log.txt",
+    "BackupRecordsCount": 20
+  },
+  "Backup": {
+    "BackupDirectory": "../Backup"
+  }
+}
